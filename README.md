@@ -29,8 +29,7 @@ const césar = {
   <img align="center" alt="Css-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
 
 <h4 align = "left">Connect with me:</h4> 
 <div> 
