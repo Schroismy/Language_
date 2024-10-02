@@ -1,4 +1,4 @@
-# Hi there, I'm César Schroeder! ☕☕
+<h2 align="left">Hi 👋! My name is César Schroeder and I'm a student, from Brazil.</h2>
 
 ## My Metrics
 <div align="left">
@@ -9,32 +9,30 @@
 </div>
 
 
-## Some Infos About Me
-```javascript
-const césar = {
-    pronouns: "He" | "Him",
-    code: ["Java", "C", "Python"], 
-    askMeAbout: ["C", "Java", "Python"],
-    technologies: {
-        mobile: ["React Native", "Android"],
-    },
-    currentProject: "Learning C, Java, and Python",
-    learning: ["C", "Java", "Python"],
-};
-```
-<div style="display: inline_block">
-  <img align="center" alt="Java-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="C-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
-  <img align="center" alt="Python-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Html-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Css-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 </div>
 
+###
 
+<img align="right" height="129" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZnOTBodzBuMjBoNGZ2cHAwOWhjZjczYjR2amZheWh6OXMxczd1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fhAwk4DnqNgw8/giphy.webp"  />
 
-<h4 align = "left">Connect with me:</h4> 
-<div> 
-  <a href="https://www.linkedin.com/in/césar-schroeder-3a2130227/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/cesarschroeder/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/c%C3%A9sar-schroeder-3a2130227/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
